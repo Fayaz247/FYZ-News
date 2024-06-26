@@ -1,4 +1,4 @@
-package com.loc.newsapp.ui.theme
+package com.loc.fyznews.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

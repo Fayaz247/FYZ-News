@@ -1,4 +1,4 @@
-package com.loc.newsapp
+package com.loc.fyznews
 
 import org.junit.Test
 
